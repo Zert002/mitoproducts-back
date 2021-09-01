@@ -1,0 +1,16 @@
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.Services.deps.json
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.Services.dll
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.Services.pdb
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.DataAccess.dll
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.Dto.dll
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.Entities.dll
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.DataAccess.pdb
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.Dto.pdb
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\bin\Debug\netstandard2.1\MitoProducts.Entities.pdb
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\obj\Debug\netstandard2.1\MitoProducts.Services.csproj.AssemblyReference.cache
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\obj\Debug\netstandard2.1\MitoProducts.Services.AssemblyInfoInputs.cache
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\obj\Debug\netstandard2.1\MitoProducts.Services.AssemblyInfo.cs
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\obj\Debug\netstandard2.1\MitoProducts.Services.csproj.CoreCompileInputs.cache
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\obj\Debug\netstandard2.1\MitoProducts.Services.csproj.CopyComplete
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\obj\Debug\netstandard2.1\MitoProducts.Services.dll
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Services\obj\Debug\netstandard2.1\MitoProducts.Services.pdb

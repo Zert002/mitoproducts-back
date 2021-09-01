@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitoProductsApi", "MitoProductsApi\MitoProductsApi.csproj", "{66F36D51-D867-43F9-AA5A-71A8FCECFE94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. Entities", "00. Entities", "{3C31CCFF-BBCF-408D-9478-B77B2F0AF5C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Data Access", "01. Data Access", "{F74013B6-F218-4F99-BFF2-94598BA5EBAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Data Transfer Objects", "02. Data Transfer Objects", "{C768E42D-A5B3-4C65-9490-4BC4274498C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Services", "03. Services", "{220D107E-91DA-421F-AF21-0E3B07661C1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Web API", "04. Web API", "{75561F25-C8FE-4720-9149-06085C5882B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitoProducts.Entities", "MitoProductos.Entities\MitoProducts.Entities.csproj", "{D7482DF1-C639-4D80-B0F2-E30F52B31E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitoProducts.DataAccess", "MitoProducts.DataAccess\MitoProducts.DataAccess.csproj", "{BE9CABEA-EE0F-4141-BF98-055560F85D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitoProducts.Dto", "MitoProducts.Dto\MitoProducts.Dto.csproj", "{6C89912F-9A6D-440A-8AE5-F63A7D63C296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitoProducts.Services", "MitoProducts.Services\MitoProducts.Services.csproj", "{01FB9129-C81E-45D9-A650-BEAD4437F008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F36D51-D867-43F9-AA5A-71A8FCECFE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F36D51-D867-43F9-AA5A-71A8FCECFE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F36D51-D867-43F9-AA5A-71A8FCECFE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F36D51-D867-43F9-AA5A-71A8FCECFE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7482DF1-C639-4D80-B0F2-E30F52B31E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7482DF1-C639-4D80-B0F2-E30F52B31E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7482DF1-C639-4D80-B0F2-E30F52B31E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7482DF1-C639-4D80-B0F2-E30F52B31E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9CABEA-EE0F-4141-BF98-055560F85D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9CABEA-EE0F-4141-BF98-055560F85D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9CABEA-EE0F-4141-BF98-055560F85D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9CABEA-EE0F-4141-BF98-055560F85D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C89912F-9A6D-440A-8AE5-F63A7D63C296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C89912F-9A6D-440A-8AE5-F63A7D63C296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C89912F-9A6D-440A-8AE5-F63A7D63C296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C89912F-9A6D-440A-8AE5-F63A7D63C296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FB9129-C81E-45D9-A650-BEAD4437F008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FB9129-C81E-45D9-A650-BEAD4437F008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FB9129-C81E-45D9-A650-BEAD4437F008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FB9129-C81E-45D9-A650-BEAD4437F008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66F36D51-D867-43F9-AA5A-71A8FCECFE94} = {75561F25-C8FE-4720-9149-06085C5882B6}
+		{D7482DF1-C639-4D80-B0F2-E30F52B31E00} = {3C31CCFF-BBCF-408D-9478-B77B2F0AF5C6}
+		{BE9CABEA-EE0F-4141-BF98-055560F85D4E} = {F74013B6-F218-4F99-BFF2-94598BA5EBAE}
+		{6C89912F-9A6D-440A-8AE5-F63A7D63C296} = {C768E42D-A5B3-4C65-9490-4BC4274498C7}
+		{01FB9129-C81E-45D9-A650-BEAD4437F008} = {220D107E-91DA-421F-AF21-0E3B07661C1B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {634FE9D0-2D63-4F1A-B7EB-B83EF5C6EAEB}
+	EndGlobalSection
+EndGlobal

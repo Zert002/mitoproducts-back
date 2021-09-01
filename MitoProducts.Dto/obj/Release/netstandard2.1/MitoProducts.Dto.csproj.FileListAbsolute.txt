@@ -1,0 +1,9 @@
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\bin\Release\netstandard2.1\MitoProducts.Dto.deps.json
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\bin\Release\netstandard2.1\MitoProducts.Dto.dll
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\bin\Release\netstandard2.1\MitoProducts.Dto.pdb
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\obj\Release\netstandard2.1\MitoProducts.Dto.csproj.AssemblyReference.cache
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\obj\Release\netstandard2.1\MitoProducts.Dto.AssemblyInfoInputs.cache
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\obj\Release\netstandard2.1\MitoProducts.Dto.AssemblyInfo.cs
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\obj\Release\netstandard2.1\MitoProducts.Dto.csproj.CoreCompileInputs.cache
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\obj\Release\netstandard2.1\MitoProducts.Dto.dll
+D:\MyCourses\Mitocode\NET Full Stack\ProyectoFinal\backend\MitoProductsApi\MitoProducts.Dto\obj\Release\netstandard2.1\MitoProducts.Dto.pdb
